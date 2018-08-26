@@ -23,7 +23,7 @@ $ blink-internet
 
 ## Colours
 
-* Blue - loading
-* Green - connected to the internet
+* Blue - loading (first ping)
+* Green - connected to the internet (google.com)
 * Amber - connection timeout
 * Red - no connection
