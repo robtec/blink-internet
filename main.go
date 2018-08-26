@@ -43,7 +43,7 @@ func main() {
 		os.Exit(1)
 	}()
 
-	fmt.Println("# monitoring the internet connection #")
+	fmt.Println("# monitoring internet connectivity #")
 	device.SetState(blue)
 
 	for {

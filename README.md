@@ -18,7 +18,7 @@ Consult your operating systems package manager and Google to install
 
 ```go
 $ blink-internet
-# monitoring the internet connection #
+# monitoring internet connectivity #
 ```
 
 ## Colours
